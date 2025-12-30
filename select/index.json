@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ウィスパー",
+  "base_artist": "Tatsuya Kitani",
+  "createdAt": "2025-12-30T09:19:38.139723Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウィスパー",
+      "artist": "Kara",
+      "has_synced": false,
+      "path": "select/01_ウィスパー_Kara.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ケアレス・ウィスパー",
+      "artist": "AIR",
+      "has_synced": true,
+      "path": "select/02_ケアレス・ウィスパー_AIR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウィスパー",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_ウィスパー_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウィスパー",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/04_ウィスパー_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウィスパー (Instrumental)",
+      "artist": "KARA",
+      "has_synced": false,
+      "path": "select/05_ウィスパー_(Instrumental)_KARA.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウィスパー・シティ",
+      "artist": "NOMELON NOLEMON",
+      "has_synced": false,
+      "path": "select/06_ウィスパー・シティ_NOMELON_NOLEMON.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ウィスパー - Whisper",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/07_ウィスパー_-_Whisper_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウィスパー",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_ウィスパー_キタニタツヤ.txt"
+    }
+  ]
+}
